@@ -40,6 +40,9 @@
 
 >## I spent roughly around 1.5 to 2 hours finishing this project. The most of my time was focused on CSS Portion.
 
+>## Please ensure that this is not an responsive website now, if screen size can differ than hieght,width,elements will differ.So kindly refer the screenshot that i have attached.
+
+
 
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
 ># [LIVE [HOSTED] PROJECT LINK](https://brijesh8128-live-class-project-4.netlify.app/ "Project-4-Netlify")
