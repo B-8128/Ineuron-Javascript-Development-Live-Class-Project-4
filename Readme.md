@@ -40,7 +40,6 @@
 
 >## I spent roughly around 1.5 to 2 hours finishing this project. The most of my time was focused on CSS Portion.
 
->## Please ensure that this is not an responsive website now, if screen size can differ than hieght,width,elements will differ.So kindly refer the screenshot that i have attached.
 
 
 
